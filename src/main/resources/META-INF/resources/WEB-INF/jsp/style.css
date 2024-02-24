@@ -1,0 +1,6 @@
+.alert {
+  border: 5px solid darkblue;
+  height: 150px;
+  width: 50;
+  background-color: brown;
+}
