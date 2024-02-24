@@ -98,7 +98,7 @@ public class HomeController {
 	@GetMapping("home")
 	public String home(ModelMap map) {
 
-		return "index";
+		return "home";
 	}
 
 	public ModelMap requestGet(ModelMap map) {
